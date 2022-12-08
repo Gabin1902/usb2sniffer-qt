@@ -1,4 +1,4 @@
-# usb2sniffer-qt
+
 
 LambdaConcept lcsniff software for [USB2Sniffer hardware](http://docs.lambdaconcept.com/usb2sniffer/) ([buy](http://shop.lambdaconcept.com/home/35-usb2-sniffer.html)).
 
